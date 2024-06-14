@@ -1,4 +1,4 @@
-# Calculadora simples
+# Calculadora simples -- Julia e Samuel
 
 while True:
 
